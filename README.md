@@ -9,33 +9,33 @@ Tested on iOS 5.x and iOS 6.x.
 Written by [Cassius Pacheco] (https://twitter.com/CassiusPacheco_).
 
 
-# # Installation
+## Installation
 
 Just drop the files under `Source` into your Xcode project.
 
 
-# # Usage
+## Usage
 
 First you have to import the subclass:
 
-# import "CPTextViewPlaceholder.h"
+ 	#import "CPTextViewPlaceholder.h"
 
 then create a UITextView inheriting from CPTextViewPlaceholder with Storyboards, XIBs or code.
 
 See the demo for more detailed examples
 
 
-# # Demo
+## Demo
 
 You can open the 'CPTextViewPlaceholderDemo' demo project in Xcode and run it on your iPhone/iPad as well as in the Simulator.
 
 <img width="320" src="https://raw.github.com/CassiusPacheco/CPTextViewPlaceholder/master/Assets/CPTextViewPlaceholder.png" height="480"/>
 
-# # ARC
+## ARC
 
 This version is made using Automatic Reference Counting.
 
-# # License
+## License
 
 CPTextViewPlaceholder is available under the MIT license. See the LICENSE file for more info.
 
